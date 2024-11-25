@@ -23,7 +23,7 @@ neofetch
 sleep 8
 echo "load...  start xmr mining coin✓ ";
 sleep 3
-
+cd
 ~/ccminer/start.sh
 yes | pkg update && pkg upgrade
 yes | pkg install libjansson build-essential clang binutils git
