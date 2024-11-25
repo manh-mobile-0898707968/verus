@@ -22,9 +22,9 @@
     "user": "RA6dVxJwUHSDdsPY1MxHhZyD4gtbZZrkd3.SD8Gen2",
     "pass": "",
     "algo": "verus",
-	"threads": 8,
-	"cpu-priority": 1,
-	"retry-pause": 1,
-	"api-allow": "192.168.0.0/16",
-	"api-bind": "0.0.0.0:4068"
+    "threads": 12,
+    "cpu-priority": 1,
+    "retry-pause": 1,
+    "api-allow": "192.168.0.0/16",
+    "api-bind": "0.0.0.0:4068"
 }
