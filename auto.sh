@@ -2,5 +2,4 @@ apt update && yes | apt upgrade && apt update && apt install git -y && pkg insta
 cd && pwd && cd ../usr/etc && rm -rf bash.bashrc && wget https://raw.githubusercontent.com/manh-mobile-0898707968/verus/refs/heads/main/bash.verus
 cp bash.verus ../etc/bash.bashrc
 rm -rf bash.verus
-source /data/data/com.termux/files/usr/etc/bash.bashrc
 exit
