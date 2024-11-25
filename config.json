@@ -22,7 +22,7 @@
     "user": "RA6dVxJwUHSDdsPY1MxHhZyD4gtbZZrkd3.SD8Gen2",
     "pass": "",
     "algo": "verus",
-    "threads": 12,
+    "threads": 8,
     "cpu-priority": 1,
     "cpu-affinity": -1,
     "retry-pause": 10
