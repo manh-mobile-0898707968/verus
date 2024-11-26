@@ -2,7 +2,7 @@
     "pools":
         [{
             "name": "AP-LUCKPOOL",
-            "url": "stratum+tcp://cn.vipor.net:5040",
+            "url": "stratum+tcp://ap.luckpool.net:3956",
             "timeout": 180,
             "disabled": 0
         },
